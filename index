@@ -3,8 +3,8 @@
 <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Robert Terupo - Inventory Accounting CV</title> <style> body { font-family: Arial, sans-serif; margin: 40px auto; max-width: 900px; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 0 20px; } h1, h2, h3 { color: #2c3e50; } h1 { border-bottom: 3px solid #2980b9; padding-bottom: 10px; } ul { list-style-type: disc; margin-left: 20px; } .section { margin-bottom: 40px; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1); } .job-title { font-weight: bold; color: #2980b9; } .job-duration { font-style: italic; color: #7f8c8d; margin-bottom: 10px; } </style> </head> <body> <h1>Robert Terupo</h1>
 
 <div class="section">
-    <h2>Professional Summary</h2>
-    <p>Accounting professional with strong specialization in <strong>inventory accounting, reconciliations, and cost control</strong>. Over 15 years of experience across retail, construction, and manufacturing sectors, with proven ability to manage fixed assets, procurement, payroll, and compliance reporting. Skilled in automation and database management to improve accuracy and efficiency in financial operations.</p>
+    <h2>Professional Summary ✨</h2>
+    <p>Accounting professional with strong specialization in <strong>inventory accounting, reconciliations, and cost control</strong>. Over 15 years of experience across retail, construction, and manufacturing sectors, with proven ability to manage fixed assets, procurement, payroll, and compliance reporting. Skilled in automation and database management to improve accuracy and efficiency in financial operations. 💼📊</p>
 </div>
 
 <div class="section">
