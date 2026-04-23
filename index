@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Robert Terupo - Inventory Accounting CV</title> <style> body { font-family: Arial, sans-serif; margin: 40px auto; max-width: 900px; line-height: 1.6; color: #333; background-color: #f9f9f9; padding: 0 20px; } h1, h2, h3 { color: #2c3e50; } h1 { border-bottom: 3px solid #2980b9; padding-bottom: 10px; } ul { list-style-type: disc; margin-left: 20px; } .section { margin-bottom: 40px; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1); } .job-title { font-weight: bold; color: #2980b9; } .job-duration { font-style: italic; color: #7f8c8d; margin-bottom: 10px; } </style> </head> <body> <h1>Robert Terupo</h1>
+
+<div class="section">
+    <h2>Professional Summary</h2>
+    <p>Accounting professional with strong specialization in <strong>inventory accounting, reconciliations, and cost control</strong>. Over 15 years of experience across retail, construction, and manufacturing sectors, with proven ability to manage fixed assets, procurement, payroll, and compliance reporting. Skilled in automation and database management to improve accuracy and efficiency in financial operations.</p>
+</div>
+
+<div class="section">
+    <h2>Key Skills</h2>
+    <ul>
+        <li>Inventory accounting &amp; reconciliations (GL, AP/AR, stock balances)</li>
+        <li>Fixed asset &amp; leasing records management</li>
+        <li>Procurement &amp; expenditure control</li>
+        <li>Payroll &amp; compliance reporting (4,000+ employees)</li>
+        <li>Database automation (MS Excel, Access, VBA, Python, SQL)</li>
+        <li>Strong communication, problem-solving, and process improvement</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Experience</h2>
+
+    <h3 class="job-title">Tandapi Builders — Administration Supervisor (Finance)</h3>
+    <div class="job-duration">2023 – 2026</div>
+    <ul>
+        <li>Reduced procurement costs while maintaining quality standards.</li>
+        <li>Preplanned Management’s duty and holiday travel, avoiding penalty fees.</li>
+        <li>Arranged business insurance cover.</li>
+        <li>Negotiated and bided service contracts, cutting finders control costs by 60%.</li>
+        <li>Identified and corrected electricity tariff errors, saving costs.</li>
+    </ul>
+
+    <h3 class="job-title">Jacks Retail (PNG) Ltd — Administration/Payroll Officer/HR</h3>
+    <div class="job-duration">Sep 2021 – Jul 2022</div>
+    <ul>
+        <li>Implemented CPL systems for payroll and administration.</li>
+        <li>Supported HR and accounts functions with reconciliations and reporting.</li>
+    </ul>
+
+    <h3 class="job-title">City Pharmacy Limited (CPL Group) — Administration Supervisor</h3>
+    <div class="job-duration">May 2016 – Jan 2020</div>
+    <ul>
+        <li>Restructured Administration Support Division for 30+ shops nationwide.</li>
+        <li>Revised databases covering <strong>fixed assets, insurance, leasing, and business expenses</strong>.</li>
+        <li>Cleared purchase order register dating back to 2003, improving inventory accuracy.</li>
+        <li>Delivered timely reports to senior management for compliance and audit readiness.</li>
+    </ul>
+
+    <h3 class="job-title">City Pharmacy Limited (CPL Group) — Payroll Officer</h3>
+    <div class="job-duration">May 2015 – May 2016</div>
+    <ul>
+        <li>Introduced automated payroll templates, improving productivity.</li>
+        <li>Ensured accurate wages for 4,000 employees.</li>
+        <li>Supported tax filings and reconciliations.</li>
+    </ul>
+
+    <h3 class="job-title">Kana Construction Ltd — Accounts Clerk</h3>
+    <div class="job-duration">Apr 2013 – Nov 2014</div>
+    <ul>
+        <li>Entered and reconciled data in MYOB accounting software.</li>
+        <li>Prepared trial balances, invoices, and account statements.</li>
+        <li>Managed purchase orders and supplier payments.</li>
+        <li>Established SOPs for payables, strengthening internal controls.</li>
+    </ul>
+
+    <h3 class="job-title">SP Brewery Ltd — Brewing Operator</h3>
+    <div class="job-duration">Oct 2004 – Nov 2009</div>
+    <ul>
+        <li>Operated brewing process equipment under ISO/HACCP standards.</li>
+        <li>Selected to brew award-winning batches for Monde Selection (2007).</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Education</h2>
+    <p><strong>Tusbab Secondary School, Madang Province</strong></p>
+    <ul>
+        <li>Grade 12 Higher School Certificate (2003)</li>
+        <li>Diploma in IT (Dataset automation and manipulation)</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>References</h2>
+    <p>Available upon request.</p>
+</div>
+
+</body> </html>
